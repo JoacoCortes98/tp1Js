@@ -12,7 +12,7 @@ if (
   frase.charAt(0) === "e" ||
   frase.charAt(0) === "i" ||
   frase.charAt(0) === "o" ||
-  frase.charAt(0) === "gitu"
+  frase.charAt(0) === "u"
 ) {
   document.write(frase.charAt(0));
 }
